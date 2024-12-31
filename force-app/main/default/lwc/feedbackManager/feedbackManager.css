@@ -1,9 +1,0 @@
-.pagination-controls {
-    display: flex;
-    justify-content: center;
-    margin-top: 10px;
-}
-
-.pagination-controls button {
-    margin: 0 5px;
-}
